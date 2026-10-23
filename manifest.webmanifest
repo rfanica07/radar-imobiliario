@@ -1,1 +1,19 @@
-{"name": "Radar Imobiliário — Prospeção", "short_name": "Radar", "start_url": "./", "scope": "./", "display": "standalone", "lang": "pt-PT", "background_color": "#f5f4ed", "theme_color": "#163b32", "icons": [{"src": "./radar-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]}
+{
+  "name": "Radar Imobiliário — Prospeção",
+  "short_name": "Radar",
+  "description": "Radar de prospeção imobiliária — Lisboa e Setúbal",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "lang": "pt-PT",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "./radar-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
