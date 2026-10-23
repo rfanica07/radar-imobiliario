@@ -1,0 +1,189 @@
+[
+  {
+    "zone": 1,
+    "cartographicEntries": 1561,
+    "municipalEntries": 0,
+    "sources": [
+      "INE · Base Nacional de Moradas 2018",
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 1544
+  },
+  {
+    "zone": 2,
+    "cartographicEntries": 2891,
+    "municipalEntries": 0,
+    "sources": [
+      "INE · Base Nacional de Moradas 2018",
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 2811
+  },
+  {
+    "zone": 3,
+    "cartographicEntries": 491,
+    "municipalEntries": 0,
+    "sources": [
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 4,
+    "cartographicEntries": 198,
+    "municipalEntries": 0,
+    "sources": [
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 5,
+    "cartographicEntries": 1535,
+    "municipalEntries": 0,
+    "sources": [
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 6,
+    "cartographicEntries": 199,
+    "municipalEntries": 0,
+    "sources": [
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 7,
+    "cartographicEntries": 5096,
+    "municipalEntries": 4579,
+    "sources": [
+      "Lisboa · cartografia municipal 2018",
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 8,
+    "cartographicEntries": 199,
+    "municipalEntries": 0,
+    "sources": [
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 9,
+    "cartographicEntries": 425,
+    "municipalEntries": 0,
+    "sources": [
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 10,
+    "cartographicEntries": 333,
+    "municipalEntries": 0,
+    "sources": [
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 11,
+    "cartographicEntries": 2256,
+    "municipalEntries": 1950,
+    "sources": [
+      "OpenStreetMap",
+      "Seixal · cartografia municipal"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 12,
+    "cartographicEntries": 2691,
+    "municipalEntries": 2503,
+    "sources": [
+      "OpenStreetMap",
+      "Seixal · cartografia municipal"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 13,
+    "cartographicEntries": 5605,
+    "municipalEntries": 4305,
+    "sources": [
+      "OpenStreetMap",
+      "Seixal · cartografia municipal"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 14,
+    "cartographicEntries": 138,
+    "municipalEntries": 0,
+    "sources": [
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 15,
+    "cartographicEntries": 2159,
+    "municipalEntries": 0,
+    "sources": [
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 16,
+    "cartographicEntries": 1242,
+    "municipalEntries": 0,
+    "sources": [
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 17,
+    "cartographicEntries": 626,
+    "municipalEntries": 0,
+    "sources": [
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 18,
+    "cartographicEntries": 51,
+    "municipalEntries": 0,
+    "sources": [
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 19,
+    "cartographicEntries": 5918,
+    "municipalEntries": 5386,
+    "sources": [
+      "Montijo · cartografia municipal",
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  },
+  {
+    "zone": 20,
+    "cartographicEntries": 3627,
+    "municipalEntries": 0,
+    "sources": [
+      "OpenStreetMap"
+    ],
+    "ineHistoricEntries": 0
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "zone": 1,
+    "before": 17,
+    "added": 1544,
+    "total": 1561,
+    "sourceDate": "2018-01-01",
+    "streetsWithAddedNumbers": 173
+  },
+  {
+    "zone": 2,
+    "before": 80,
+    "added": 2811,
+    "total": 2891,
+    "sourceDate": "2018-01-01",
+    "streetsWithAddedNumbers": 174
+  }
+]
