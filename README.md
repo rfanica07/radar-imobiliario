@@ -17,3 +17,7 @@ Consulta `Fontes-e-cobertura-das-portas.md`. Os números importados da Moita/Bai
 ## Atualizações
 
 O `index.html` inclui os scripts e os dados cartográficos necessários. As próximas versões podem substituir os ficheiros mantendo o mesmo endereço. O código modular foi preservado no arquivo de fontes. Os dados pessoais de prospeção não fazem parte deste repositório.
+
+## Versão de 24/10/2026
+
+Tema azul, incluindo os painéis do Doutor Finanças. Registos de vendas/escrituras com andar e fração, preço de venda, tempo para vender em dias, avaliação, estado do imóvel e data da escritura. Os prédios com vendas escrituradas aparecem a azul. A sinalização de bate-porta distingue frações por visitar e as que não abriram.
